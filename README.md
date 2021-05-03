@@ -1,6 +1,6 @@
-# Let's make a sound board!
+# Mission Soundboard
 
-We going to build the ultimate musical instrument -- a web application that plays sound when you click buttons!
+Your mission, should you choose to accept it, is to build the ultimate musical instrument -- a web application that plays sound when you click buttons!
 
 ## Step 0 -- Prerequisites
 
